@@ -37,8 +37,8 @@
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd resume_analyser
+git clone https://github.com/Misikirayu/AI_resume_analyser.git
+cd AI_resume_analyser
 ```
 
 2. Install dependencies:
